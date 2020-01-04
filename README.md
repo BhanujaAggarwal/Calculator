@@ -11,5 +11,7 @@ $ python -m SimpleHTTPServer
 
 Open browser to run site locally on port 8000 : http://localhost:8000/
 
+Webiste is live on Github Pages : https://bhanujaaggarwal.github.io/Calculator/
+
 
 
